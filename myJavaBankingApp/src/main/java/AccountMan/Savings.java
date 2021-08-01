@@ -7,6 +7,9 @@ public class Savings extends Account {
 	
 	protected double Interest;
 	
+	protected double balance = 0;
+	
+	
 	public Savings() {
 		super();
 	}
